@@ -1,3 +1,4 @@
 print("Hola Mundo")
 print("santiago loca")
 print("Santiago loca 2")
+print(1+1)
